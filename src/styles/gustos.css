@@ -14,21 +14,23 @@
 .content{
     margin-top: 20px;
     text-align: center;
+    padding-right: 50px;
 }
 .gusto{
-    
     background-color: #ffffff;
+    border:0px solid #ffffff;
     width: 6rem;
     text-align: center;
-    margin-top: 6px;
+    margin-top: 30px;
     border-radius: 0.5rem;
     font-weight: bold;
     color:#5fa630;
     height: 2rem;
     z-index: 1;
     cursor: pointer;
-    margin-left: 5px;
-    box-shadow: 1px 1px 3px #00000050;
+    margin-left: 40px;
+    box-shadow: 1px 3px 19px gray;
+
 }
 
 .select-gusto{
